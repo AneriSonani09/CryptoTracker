@@ -7,7 +7,7 @@ A searchable cryptocurrency price tracker app which renders in real-time the pri
 <p>Sorting based on rankings</p>
 <p>Visual representation of price fluctuations</p>
 
-<img src="image.png" width="100%" height="80%">
+<img src="img.jpg" width="100%" height="80%">
 
 
 
